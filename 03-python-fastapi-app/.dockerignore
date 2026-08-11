@@ -1,0 +1,12 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Ignore test artifacts
+.pytest_cache/
+*.egg-info/
